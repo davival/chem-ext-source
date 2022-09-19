@@ -1,0 +1,17 @@
+{
+  "data": [
+    {
+      "id": "CHEMBL135626",
+	  "name": "ethane",
+      "molfile": "\n     RDKit          2D\n\n  2  1  0  0  0  0  0  0  0  0999 V2000\n    0.4125    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.4125    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0\nM  END\n\n> <chembl_id>\nCHEMBL135626\n\n> <chembl_pref_name>\nETHANE\n\n"
+    },
+    {
+      "id": "CHEMBL135416",
+      "name": "propane",
+      "molfile": "\n     RDKit          2D\n\n  3  2  0  0  0  0  0  0  0  0999 V2000\n   -0.7145    0.1446    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000   -0.2679    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.7145    0.1446    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0\n  2  3  1  0\nM  END\n\n> <chembl_id>\nCHEMBL135416\n\n> <chembl_pref_name>\nPROPANE\n\n",
+    }
+  ],
+  "paging": {
+    "total": 2
+  }
+}
